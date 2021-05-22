@@ -1,0 +1,6 @@
+name: FirstPlugin
+version: ${project.version}
+main: me.pizzaboysz.firstplugin.FirstPlugin
+api-version: 1.16
+authors: [ pizzaboysz ]
+description: Firsteverplugin
